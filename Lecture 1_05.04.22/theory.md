@@ -55,7 +55,7 @@ a > b -> НОД(а, b) = НОД(b, r) : a = b * k + r
 <br></br>
 ### Факторизация
 - Разложение числа на множители
-<img width="818" alt="Screenshot 2022-04-21 at 17 08 59" src="https://user-images.githubusercontent.com/101647250/164488956-58e0fd09-5b13-4328-84c7-a0b239b19b10.png"><br></br>
+<img width="818" alt="Screenshot 2022-04-21 at 17 12 30" src="https://user-images.githubusercontent.com/101647250/164489613-9bace059-afac-4659-9758-c3cd4e3508a8.png"><br></br>
 
 ### Решето Эратосфена
 - Принцип состоит в том, чтобы из массива с 1 вычёркивать все кратные каждого нового простого числа;
