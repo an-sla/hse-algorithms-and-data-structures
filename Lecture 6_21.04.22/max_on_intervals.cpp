@@ -65,7 +65,7 @@ int main() {
     int right_query = 0; // границы запросов — полуинтервалы начиная с 1
     int left_query = 0;
     std::cin >> n;
-    Tree* t = new Tree(1, n);
+    Tree* t = new Tree(1, n + 1);
     for (size_t i = 1; i <= n; ++i) { // составляем дерево из постепенно считываемых запросов
         std::cin >> x;
         t->add(i, x);
