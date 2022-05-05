@@ -14,6 +14,7 @@ int first_entry_binsearch(std::vector<int> &data, int key) { // передаём
     return right; // возвращаем правый элемент
 }
 
+
 int main() {
     int n;
     std::cin >> n;
