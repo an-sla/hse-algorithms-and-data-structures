@@ -1,4 +1,7 @@
 # Algorithms and Data Structures C++ [HSE]
+
+> ### BY [AN-SLA](https://github.com/an-sla) AND [RAMUSDMITRY](https://github.com/ramusdmitry)
+
 <p align="center">
 <img src="https://cs.hse.ru/mirror/pubs/share/387237575.png" alt="drawing" width="400" height="400" />
 </p>
