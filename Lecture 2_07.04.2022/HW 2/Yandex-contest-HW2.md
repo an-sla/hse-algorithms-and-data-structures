@@ -1,4 +1,4 @@
-[Ссылка на Яндекс.Контест н.1 по темe "Теория чисел"](https://official.contest.yandex.ru/contest/37217/enter/)
+[Ссылка на Яндекс.Контест н.2 по темe "Бинарный поиск"](https://official.contest.yandex.ru/contest/37217/enter/)
 
 (необходимо авторизоваться с данными ВШЭ)
 <br>
