@@ -31,8 +31,9 @@
   - Пробег по всем запросам;
   
 
-Пример задачи в `Mo's_algorithm.cpp`;
+**Пример задачи в [`Mo's_algorithm.cpp`](https://github.com/an-sla/hse-algorithms-and-data-structures/blob/main/Lecture%204_14.04.2022/Mo's_algorithm.cpp);**
 
+**Домашнее задание по теме совместно с "Лекцией 3" — лежит в [этой папке](https://github.com/an-sla/hse-algorithms-and-data-structures/tree/main/Lecture%203_12.04.22/HW%203);**
 
-[Дополнительные материалы](https://algorithmica.org/ru/sqrt)
+**[Дополнительные материалы](https://algorithmica.org/ru/sqrt).**
 
