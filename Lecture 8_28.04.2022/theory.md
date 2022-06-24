@@ -15,7 +15,8 @@
 
 Имеется такой граф:
 
-#картинка1
+<img width="1047" alt="Screenshot 2022-06-24 at 20 11 28" src="https://user-images.githubusercontent.com/101647250/175618644-93f3a143-6177-4050-a972-ce1a305cdd33.png">
+
 
 Рассмотрим каждую вершину:
 
@@ -30,8 +31,11 @@
 
 Пример дерева, у которого центр дерева — это две вершины (вершины $1$ и $2$):
 
-#картинка2
-#картинка3
+<img width="1047" alt="Screenshot 2022-06-24 at 20 12 55" src="https://user-images.githubusercontent.com/101647250/175618765-319a9db7-928a-49e1-a3f6-7bc14e41eaf3.png">
+
+Как это происходит в общем случае:
+<img width="1047" alt="Screenshot 2022-06-24 at 20 12 11" src="https://user-images.githubusercontent.com/101647250/175618677-d06e74d6-c8df-405f-9b28-371663e8a686.png">
+
 
 --- 
 ### Реализация
