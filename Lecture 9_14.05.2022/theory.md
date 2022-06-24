@@ -49,6 +49,13 @@ _Нет гарантий, что у нас 1 компонента связнос
 
 - При рассмотрении **R**, следующий уровень в дереве нам гарантирует **R + 1** (количество рёбер в пути либо остаётся ***прежним***, либо увеличивается на **1**);
 
+**Визуализация:**
+
+<img width="1105" alt="Screenshot 2022-06-24 at 18 46 39" src="https://user-images.githubusercontent.com/101647250/175604817-71de9283-5863-427b-aafe-171ff82173f8.png">
+<img width="1105" alt="Screenshot 2022-06-24 at 18 46 54" src="https://user-images.githubusercontent.com/101647250/175604824-2e916bce-5de5-4cdd-95b9-2e56de3f8de4.png">
+<img width="1105" alt="Screenshot 2022-06-24 at 18 47 08" src="https://user-images.githubusercontent.com/101647250/175604831-e0d89447-eefd-424b-86f8-c657c7e320fa.png">
+<img width="1105" alt="Screenshot 2022-06-24 at 18 46 26" src="https://user-images.githubusercontent.com/101647250/175604806-e8b88f85-58ab-4c1a-b855-db0806737669.png">
+
 <br></br>
 - В общем случае нам не нужна очередь:
   - Изменим задачу с различными длинами дуг — добавим несколько длин со значением **2**;
