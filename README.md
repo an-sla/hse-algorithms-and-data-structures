@@ -69,6 +69,6 @@
 
     * [Задачи](https://github.com/an-sla/hse-algorithms-and-data-structures/tree/main/Lecture%2013_26.05.2022)
 
-15. **[Алгоритм Краскала](https://github.com/an-sla/hse-algorithms-and-data-structures/blob/main/Lecture%2014_31.05.2022/theory.md)** ✅
+15. **[Алгоритм Краскала и АВЛ дерево](https://github.com/an-sla/hse-algorithms-and-data-structures/blob/main/Lecture%2014_31.05.2022/theory.md)** ✅
 
     * [Задачи](https://github.com/an-sla/hse-algorithms-and-data-structures/tree/main/Lecture%2014_31.05.2022)
