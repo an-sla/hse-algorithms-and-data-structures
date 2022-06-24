@@ -3,8 +3,7 @@
 > ### BY [AN-SLA](https://github.com/an-sla) AND [RAMUSDMITRY](https://github.com/ramusdmitry)
 
 <p align="center">
-<img src="https://github.com/an-sla/hse-algorithms-and-data-structures/blob/main/README%20images/fcs.png"/>
-<img src="https://github.com/an-sla/hse-algorithms-and-data-structures/blob/main/README%20images/hse.png"/>
+<img src="https://github.com/an-sla/hse-algorithms-and-data-structures/blob/main/README%20images/fcs.jpg"/>
 </p>
 
 <!-- ![](https://cs.hse.ru/mirror/pubs/share/387237575.png) -->
